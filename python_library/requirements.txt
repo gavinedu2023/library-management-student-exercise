@@ -1,0 +1,2 @@
+# Python Library Management System Dependencies
+# No external dependencies required - uses only Python standard library
